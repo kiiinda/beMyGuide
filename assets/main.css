@@ -1,0 +1,121 @@
+.site-footer{
+  padding: 5em 0;
+  background: rgb(147, 170, 66);  
+  font-size: 14px;
+  color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.site-footer a{
+    color: rgb(252, 249, 249);
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+.site-footer h2{
+    font-size: 24px;
+    margin-bottom: 28px;
+    letter-spacing: .05em;
+    color: white;
+}
+.site-footer .footer-link li{
+    line-height: 1.5;
+    margin-bottom: 15px;
+    
+}
+.footer-link li a{
+    text-decoration: none;
+}
+
+.footer-social{
+    line-height: 0;
+    border-radius: 50%;
+    margin: 0 5px 5px 0;
+    border: 5px solid rgba(255,255,255,0.1);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    display: inline-block;
+}
+.footer-social a:hover{
+    background: white;
+    border-color: #fff;
+    color: black;
+}
+.footer-social .fa{
+    margin-top: 7px;
+}
+.navbar-brand{
+    margin-left: 0.5em;
+}
+.navbar img{
+    margin-left: 6em;
+}
+.nav-item{
+    margin-right: 2em;
+}
+.card{
+    margin-top: 2em;
+}
+.carousel{
+    height: 300px;
+    
+}
+.blg{
+    margin: 5em;
+    height: 0%;
+   
+}
+.blg h4{
+    margin-top: 2em;
+}
+.blg a{
+    border-radius: 5%;
+     text-decoration: none;
+     background-color: rgb(147, 170, 66);
+     width: 100%;
+     padding: 1em;
+     color: white;
+     font-size: 16px;
+     
+}
+
+/**xxx**/
+.containerr{
+    width: 50%;
+    margin: 5.5em auto;
+    
+    
+}
+.card-header{
+    background-color:rgb(147, 170, 66);
+    color: white;
+}
+.card-title{
+    font-size: 32px;
+    font-style: italic;
+}
+label{
+    font-weight: bold; 
+    font-size: 16px;
+}
+.btn{
+    width: 95%;
+    margin-left: 1em;
+ }
+.footer h1{
+    font-size: 18px;
+    padding: 1em;
+}
+.footer a {
+    text-decoration: none;
+    color: rgb(151, 180, 47)
+    
+}
+.btn{
+    background-color:rgb(174, 187, 122);
+    color:white;
+}
+.ccard .card-title{
+    font-size: 18px;
+}
