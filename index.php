@@ -28,29 +28,30 @@
       </div>
     <div class="col">
   
-    <div class="card">
+    <div class="card" style="width: 21rem; height: 32rem;">
   <div class="card-body">
     <h5 class="card-title fs-5">Family Planning</h5>
     <p class="card-text"> Use of contraception prevents pregnancy-related health risks for women, 
       especially for adolescent girls, and when births are separated by less than two year...</p>
+    <img src="assets/images/rh.jpg" class="card-img-bottom mt-3" alt="contraceptive-options"><br><br>
     <a href="https://www.plannedparenthood.org" class="btn btn-primary">Read More</a>
-    <img src="assets/images/rh.jpg" class="card-img-bottom mt-3" alt="contraceptive-options">
   </div>
+
 </div>
     </div>
     <div class="col">
-    <div class="card" style="height: 100">
+    <div class="card" style="width: 21rem; height: 32rem;">
   <div class="card-body">
     <h5 class="card-title fs-5">Pre-natal Care</h5>
     <p class="card-text">How often you’ll get prenatal care depends on how far along your pregnancy is and how high your risk is for complications.
        The typical prenatal care schedule for someone who’s 18-35 years old and healthy</p>
+    <img src="assets/images/pre.jpg" class="card-img-bottom mt-4" alt="contraceptive-options"><br><br>
     <a href="https://www.open.edu/openlearncreate" class="btn btn-primary">Read More</a>
-    <img src="assets/images/pre.jpg" class="card-img-bottom mt-4" alt="contraceptive-options">
   </div>
 </div>
     </div>
     <div class="col">
-    <div class="card" style="height: 100">
+    <div class="card" style="width: 21rem; height: 32rem;">
   <img src="assets/images/post.jpg" class="card-img-top" alt="contraceptive-options">
   <div class="card-body">
     <h5 class="card-title fs-5">Post-natal Care</h5>
@@ -58,12 +59,12 @@
       newborn baby immediately after the birth and for the first six weeks of life. This period marks the...</p>
     <a href="https://www.who.int" class="btn btn-primary">Read More</a>
   </div>
-</div>
+</div><br><br><br>
     </div>
   </div>
   <div class="row align-items-center">
     <div class="col">
-    <div class="card">
+    <div class="card" style="width: 21rem; height: 32rem;">
   <img src="assets/images/po.jpg" class="card-img-top" alt="contraceptive-options">
   <div class="card-body">
     <h5 class="card-title fs-5">My Journey as a Teenage Mother</h5>
@@ -75,7 +76,7 @@
 </div>
     </div>
     <div class="col">
-    <div class="card" style="height: 100">
+    <div class="card" style="width: 21rem; height: 32rem;">
   <img src="assets/images/di.jpg" class="card-img-top" alt="contraceptive-options">
   <div class="card-body">
     <h5 class="card-title fs-5">The Highs and the Lows of Teenage motherhood</h5>
@@ -86,7 +87,7 @@
 </div>
     </div>
     <div class="col">
-    <div class="card" style="height: 100">
+    <div class="card" style="width: 21rem; height: 32rem;">
   <img src="assets/images/pr.jpg" class="card-img-top" alt="contraceptive-options">
   <div class="card-body">
     <h5 class="card-title fs-5">My support system</h5>
